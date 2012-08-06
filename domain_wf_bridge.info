@@ -1,0 +1,8 @@
+name = Domain Access - Workflow Bridge
+description = Allows workflow to coexist with Domain Access.
+core = 7.x
+package = Domain Access
+
+version = "7.x-1.x-dev"
+core = "7.x"
+
